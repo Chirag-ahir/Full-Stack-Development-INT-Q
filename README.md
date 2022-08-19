@@ -10,4 +10,8 @@ The Model-View-Controller (MVC) is an architectural pattern that separates an ap
 What is Next.js ?<br>
 Next.js is a popular and lightweight framework for static and server‑rendered applications built with React. It includes styling and routing solutions out of the box, and assumes that you’re using Node.js as the server environment.
 
+What is Long Polling ? 
+Long Polling is a web development pattern that is used to surpass pushing data from the server to the client. By using Long Polling pattern, the Client requests information from the server. If the server does not have any information about the client, the server holds the request and waits for some information to be available rather than sending an empty resource.
+
+
 
