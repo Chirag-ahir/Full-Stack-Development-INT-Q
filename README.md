@@ -14,4 +14,7 @@ What is Long Polling ?
 Long Polling is a web development pattern that is used to surpass pushing data from the server to the client. By using Long Polling pattern, the Client requests information from the server. If the server does not have any information about the client, the server holds the request and waits for some information to be available rather than sending an empty resource.
 
 
+What is CORS ?
+Cross-Origin Resource Sharing, is a process used to gain the authority of different web resources on different domains. With the help of CORS, the integration of web scripts can be implemented more freely with the external content of the original domain.
+
 
