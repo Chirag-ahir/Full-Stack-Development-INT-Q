@@ -23,4 +23,5 @@ Cross-Origin Resource Sharing, is a process used to gain the authority of differ
 What is Multi Threading ? <br>
 The process of improving the performance of the CPU is known as Multi-Threading. Usually, it is seen as the ability of a program to be managed by multiple users at a single time.
 
-
+What is React JS ?<br>
+React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. 
