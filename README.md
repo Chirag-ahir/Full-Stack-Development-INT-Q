@@ -26,5 +26,8 @@ The process of improving the performance of the CPU is known as Multi-Threading.
 What is React JS ?<br>
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. 
 
+What is Component ?
+Component is a piece of reusable code which you can be reused at any point and it's an individual piece of code which has it's own inputs and it's own outputs and it has it's own functionaliy.
+
 What is React Hooks ? <br>
 Hooks are the new feature introduced in the React 16.8 version. It allows you to use state and other React features without writing a class.
