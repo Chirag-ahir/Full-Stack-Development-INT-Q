@@ -21,17 +21,20 @@ Identifier is a name used to identify a variable, function, class, module, or an
 What is Variable ?<br>
 A variable is a name which is associated with a value that can be changed.
 
-What are Operators ?
+What are Operators ?<br>
 Operators are used to perform operations on values referred by variables.
 
-What are constants ?
+What are constants ?<br>
 Constants are name given to variables that can't be modified once initialized.
 
-What is Precedence in OOP?
+What is Precedence in OOP?<br>
 Precedence denotes the order in which an operator perform the operation. 
 
-What is Associativity in OOP?
+What is Associativity in OOP?<br>
 When operators have same precedence, then associativity will determine the order of execution.
+
+What is Array ?<br>
+is a collection of items stored at contiguous memory locations.
 
 What is HTML?<br> 
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
