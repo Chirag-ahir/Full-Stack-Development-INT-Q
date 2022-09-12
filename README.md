@@ -39,6 +39,9 @@ is a collection of items stored at contiguous memory locations.
 What is Function ?<br>
 A function is a block of code, are used to perform certain task.
 
+What is Function Overloading ?<br>
+Function overloading is a feature of object-oriented programming where two or more functions can have the same name but different parameters.
+
 What is HTML?<br> 
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
 
