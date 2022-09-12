@@ -46,7 +46,10 @@ What is TyeConversion ?<br>
 Conversion of data from one type to another is called TypeConversion.
 
 What is Encapsulation ? <br>
-Encapsulation in Java refers to integrating data (variables) and code (methods) into a single unit.
+Encapsulation in Java refers to integrating variables and methods into a single unit.
+
+What is Class ?<br>
+Class is a Blueprint, which holds it's own data members and members function.
 
 What is HTML?<br> 
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
