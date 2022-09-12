@@ -1,5 +1,11 @@
 # Full-Stack-Development-INT-Q
 
+What is Programming ? <br>
+It is the process of creating a set of instructions that tell a computer how to perform a task.
+
+What is OOP ?<br>
+Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated.
+
 What is HTML?<br>
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
 
