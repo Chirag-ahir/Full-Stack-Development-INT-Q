@@ -12,7 +12,10 @@ Interpreter translates just one statement of the program at a time into machine 
 What are Header Files ? <br>
 Header files are the collection of predefined classes and functions.
 
-What is HTML?<br>
+What is Block in a program ?<br>
+A block is a set of logically connected statements that are surrounded by openingand closing braces
+
+What is HTML?<br> 
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
 
 What is CSS Box Modal ? <br>
