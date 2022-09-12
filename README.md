@@ -13,9 +13,9 @@ What are Header Files ? <br>
 Header files are the collection of predefined classes and functions.
 
 What is Block in a program ?<br>
-A block is a set of logically connected statements that are surrounded by openingand closing braces.
+A block is a set of logically connected statements that are surrounded by opening and closing braces.
 
-What is Identifier ?
+What is Identifier ?<br>
 Identifier is a name used to identify a variable, function, class, module, or any other user-defined item.
 
 What is Variable ?<br>
