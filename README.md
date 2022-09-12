@@ -27,6 +27,12 @@ Operators are used to perform operations on values referred by variables.
 What are constants ?
 Constants are name given to variables that can't be modified once initialized.
 
+What is Precedence in OOP?
+Precedence denotes the order in which an operator perform the operation. 
+
+What is Associativity in OOP?
+When operators have same precedence, then associativity will determine the order of execution.
+
 What is HTML?<br> 
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
 
