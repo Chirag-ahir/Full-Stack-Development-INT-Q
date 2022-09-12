@@ -13,7 +13,19 @@ What are Header Files ? <br>
 Header files are the collection of predefined classes and functions.
 
 What is Block in a program ?<br>
-A block is a set of logically connected statements that are surrounded by openingand closing braces
+A block is a set of logically connected statements that are surrounded by openingand closing braces.
+
+What is Identifier ?
+Identifier is a name used to identify a variable, function, class, module, or any other user-defined item.
+
+What is Variable ?<br>
+A variable is a name which is associated with a value that can be changed.
+
+What are Operators ?
+Operators are used to perform operations on values referred by variables.
+
+What are constants ?
+Constants are name given to variables that can't be modified once initialized.
 
 What is HTML?<br> 
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
