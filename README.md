@@ -51,6 +51,9 @@ Conversion of data from one type to another is called TypeConversion.
 What is Encapsulation ? <br>
 Encapsulation in Java refers to integrating variables and methods into a single unit.
 
+What is Inheritance ?<br>
+Inheritance is a mechanism in which one class acquires the property of another class.
+
 What is Class ?<br>
 Class is a Blueprint, which holds it's own data members and members function.
 
