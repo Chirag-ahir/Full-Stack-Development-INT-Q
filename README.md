@@ -36,6 +36,9 @@ When operators have same precedence, then associativity will determine the order
 What is Array ?<br>
 is a collection of items stored at contiguous memory locations.
 
+What is constructor ? <br>
+A constructor is a special method of a class or structure in object-oriented programming that initializes a newly created object of that type.
+
 What is Function ?<br>
 A function is a block of code, are used to perform certain task.
 
