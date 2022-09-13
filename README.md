@@ -57,6 +57,9 @@ Encapsulation in Java refers to integrating variables and methods into a single 
 What is Inheritance ?<br>
 Inheritance is a mechanism in which one class acquires the property of another class.
 
+What is Polymorphism ?<br>
+Polymorphism is the ability of an object to identify as more than one type. 
+
 What is Class ?<br>
 Class is a Blueprint, which holds it's own data members and members function.
 
