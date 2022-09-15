@@ -60,6 +60,12 @@ Inheritance is a mechanism in which one class acquires the property of another c
 What is Polymorphism ?<br>
 Polymorphism is the ability of an object to identify as more than one type. 
 
+What is Abstraction ? <br>
+Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+
+What is Object ?<br>
+An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
+
 What is Class ?<br>
 Class is a Blueprint, which holds it's own data members and members function.
 
