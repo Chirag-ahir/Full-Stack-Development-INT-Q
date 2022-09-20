@@ -63,6 +63,9 @@ Polymorphism is the ability of an object to identify as more than one type.
 What is Abstraction ? <br>
 Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing.
 
+What is Method Overloading ? 
+If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.
+
 What is Object ?<br>
 An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
 
