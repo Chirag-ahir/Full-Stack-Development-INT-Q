@@ -52,7 +52,7 @@ What is Exception Handling ?<br>
 Exception handling is used to change the normal flow of the code execution if a specified error (exceptional) condition occurs. This condition is called an exception. 
 
 What is Encapsulation ? <br>
-Encapsulation in Java refers to integrating variables and methods into a single unit.
+Binding code and data together into a single unit are known as encapsulation.
 
 What is Inheritance ?<br>
 Inheritance is a mechanism in which one class acquires the property of another class.
@@ -61,7 +61,7 @@ What is Polymorphism ?<br>
 Polymorphism is the ability of an object to identify as more than one type. 
 
 What is Abstraction ? <br>
-Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing.
 
 What is Object ?<br>
 An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
