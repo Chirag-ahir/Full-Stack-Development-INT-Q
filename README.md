@@ -51,8 +51,11 @@ Conversion of data from one type to another is called TypeConversion.
 What is Naming Conventions ?<br>
 Java naming convention is a rule to follow as you decide what to name your identifiers such as class, package, variable, constant, method, etc.
 
-What is Aggregation ?
+What is Aggregation ?<br>
 If a class have an entity reference, it is known as Aggregation.
+
+What is Wrapper class in JAVA ?<br>
+The wrapper class in Java provides the mechanism to convert primitive into object and object into primitive.
 
 What is Exception Handling ?<br>
 Exception handling is used to change the normal flow of the code execution if a specified error (exceptional) condition occurs. This condition is called an exception. 
