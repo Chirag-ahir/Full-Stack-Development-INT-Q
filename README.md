@@ -80,6 +80,7 @@ An entity that has state and behavior is known as an object e.g., chair, bike, m
 
 What is Class ?<br>
 Class is a Blueprint, which holds it's own data members and members function.
+Class is a group of similar objects.
 
 What is HTML?<br> 
 HTML stands for Hypertext Markup Language, where hypertext is the ability to turn a piece of text into a hyperlink that HTML makes it so that viewer can visit any document.
