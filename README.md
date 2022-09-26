@@ -60,6 +60,9 @@ The wrapper class in Java provides the mechanism to convert primitive into objec
 What is Recursion in JAVA ?<br>
 Recursion in java is a process in which a method calls itself continuously. A method in java that calls itself is called recursive method.
 
+What is Call by value in JAVA?<br>
+If we call a method passing a value, it is known as call by value.
+
 What is Exception Handling ?<br>
 Exception handling is used to change the normal flow of the code execution if a specified error (exceptional) condition occurs. This condition is called an exception. 
 
