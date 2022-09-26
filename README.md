@@ -48,6 +48,9 @@ Function overloading is a feature of object-oriented programming where two or mo
 What is TyeConversion ?<br>
 Conversion of data from one type to another is called TypeConversion.
 
+What is Naming Conventions ?<br>
+Java naming convention is a rule to follow as you decide what to name your identifiers such as class, package, variable, constant, method, etc.
+
 What is Exception Handling ?<br>
 Exception handling is used to change the normal flow of the code execution if a specified error (exceptional) condition occurs. This condition is called an exception. 
 
