@@ -61,9 +61,6 @@ Java naming convention is a rule to follow as you decide what to name your ident
 What is Aggregation ?<br>
 If a class have an entity reference, it is known as Aggregation.
 
-What is Wrapper class in JAVA ?<br>
-The wrapper class in Java provides the mechanism to convert primitive into object and object into primitive.
-
 What is Recursion in JAVA ?<br>
 Recursion in java is a process in which a method calls itself continuously. A method in java that calls itself is called recursive method.
 
@@ -73,17 +70,6 @@ If we call a method passing a value, it is known as call by value.
 What is Exception Handling ?<br>
 Exception handling is used to change the normal flow of the code execution if a specified error (exceptional) condition occurs. This condition is called an exception. 
 
-What is Encapsulation ? <br>
-Binding code and data together into a single unit are known as encapsulation.
-
-What is Inheritance ?<br>
-Inheritance is a mechanism in which one class acquires the property of another class.
-
-What is Polymorphism ?<br>
-Polymorphism is the ability of an object to identify as more than one type. 
-
-What is Abstraction ? <br>
-Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing.
 
 What is Method Overloading ? 
 If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
