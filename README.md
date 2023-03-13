@@ -115,3 +115,63 @@ Component is a piece of reusable code which you can be reused at any point and i
 
 What is React Hooks ? <br>
 Hooks are the new feature introduced in the React 16.8 version. It allows you to use state and other React features without writing a class.
+
+<br>
+<br>
+What is Maven ? <br>
+Maven is an Apache Software Foundation build tool for project management that automates Java projects. Maven allows developers to build and document the lifecycle framework.<br>
+<br>
+List some advantages of Maven. <br>
+&rarr; Simplifies the process of project building<br>
+&rarr; Increases the performance of the project and the building process<br>
+&rarr; The task of downloading Jar files and other dependencies is done automatically<br>
+&rarr; Provides easy access to all the required information <br>
+<br>
+What is Junit ?<br>
+JUnit is a unit testing open-source framework for the Java programming language. Java Developers use this framework to write and execute automated tests.<br>
+<br>
+What are the use cases of Junit Testing ?<br>
+&rarr; To find bugs early in the development phase, which increases the code&rsquo;s reliability<br>
+&rarr; Junit makes the code more readable, reliable, and bug-free<br>
+&rarr; It boosts the confidence of the developer and motivates them immensely<br>
+&rarr; Junit enables the developer to invest more time in reading the code than writing it<br>
+<br>
+Why is JAVA called an Object Oriented Programming language ?<br>
+Java is purely an object oriented language due to the absence of global scope. Everything in java is an object, all the program codes and data resides within classes and objects.<br>
+<br>
+<br>
+What is Git ? <br>
+Git is a free and open source distributed decentralised version control system used for source code management. <br>
+<br>
+<br>
+What is GitHub ?<br>
+Github is a service that hosts Git repositories in the cloud and makes it easier to collaborate with other people. <br>
+<br>
+<br>
+What is the command to see the most recent commits in Git ? <br>
+We can use the git log command to see the most recent commits in git.<br>
+<br>
+<br>
+What are Git Hooks ?<br>
+Git hooks are scripts that can run automatically on the occurrence of an event in a git repository. Used for automation of workflow in Git. <br>
+<br>
+<br>
+<br>
+<br>
+What is a repository in Git ?<br>
+A repository in a git is the place where we store our software work. It contains a subdirectory called .git<br>
+<br>
+<br>
+Multithreading advantages:<br>
+Increased performance: Multithreading allows a program to make use of multiple CPU cores, which can significantly increase the program's performance, especially for CPU-intensive tasks.<br>
+Improved responsiveness: Multithreading can improve the user experience by allowing a program to respond to user input while performing other tasks in the background.<br>
+Resource sharing: Multiple threads can share resources such as memory and CPU time, which can lead to better resource utilization and lower resource consumption.<br>
+Simplicity: Multithreading can simplify the programming model by allowing developers to write more straightforward, modular code that can be executed concurrently.<br>
+Asynchronous processing: Multithreading allows for asynchronous processing, which means that a program can continue to perform tasks while waiting for input/output operations to complete.<br>
+Scalability: Multithreading allows a program to scale its performance to meet the demands of larger workloads without requiring significant changes to the program's architecture.<br>
+<br>
+<br>
+Context switching is a fundamental mechanism used by operating systems to share CPU time between multiple threads or processes.<br>
+<br>
+<br>
+
