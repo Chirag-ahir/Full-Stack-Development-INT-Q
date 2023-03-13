@@ -117,7 +117,6 @@ What is React Hooks ? <br>
 Hooks are the new feature introduced in the React 16.8 version. It allows you to use state and other React features without writing a class.
 
 <br>
-<br>
 What is Maven ? <br>
 Maven is an Apache Software Foundation build tool for project management that automates Java projects. Maven allows developers to build and document the lifecycle framework.<br>
 <br>
@@ -139,28 +138,24 @@ What are the use cases of Junit Testing ?<br>
 Why is JAVA called an Object Oriented Programming language ?<br>
 Java is purely an object oriented language due to the absence of global scope. Everything in java is an object, all the program codes and data resides within classes and objects.<br>
 <br>
+What is Git ? 
+Git is a free and open source distributed decentralised version control system used for source code management.
+
 <br>
-What is Git ? <br>
-Git is a free and open source distributed decentralised version control system used for source code management. <br>
-<br>
-<br>
-What is GitHub ?<br>
+What is GitHub ?
 Github is a service that hosts Git repositories in the cloud and makes it easier to collaborate with other people. <br>
-<br>
+
 <br>
 What is the command to see the most recent commits in Git ? <br>
 We can use the git log command to see the most recent commits in git.<br>
 <br>
 <br>
 What are Git Hooks ?<br>
-Git hooks are scripts that can run automatically on the occurrence of an event in a git repository. Used for automation of workflow in Git. <br>
-<br>
-<br>
-<br>
+Git hooks are scripts that can run automatically on the occurrence of an event in a git repository. Used for automation of workflow in Git. 
 <br>
 What is a repository in Git ?<br>
 A repository in a git is the place where we store our software work. It contains a subdirectory called .git<br>
-<br>
+
 <br>
 Multithreading advantages:<br>
 Increased performance: Multithreading allows a program to make use of multiple CPU cores, which can significantly increase the program's performance, especially for CPU-intensive tasks.<br>
@@ -169,9 +164,37 @@ Resource sharing: Multiple threads can share resources such as memory and CPU ti
 Simplicity: Multithreading can simplify the programming model by allowing developers to write more straightforward, modular code that can be executed concurrently.<br>
 Asynchronous processing: Multithreading allows for asynchronous processing, which means that a program can continue to perform tasks while waiting for input/output operations to complete.<br>
 Scalability: Multithreading allows a program to scale its performance to meet the demands of larger workloads without requiring significant changes to the program's architecture.<br>
-<br>
+
 <br>
 Context switching is a fundamental mechanism used by operating systems to share CPU time between multiple threads or processes.<br>
+
+What is serialization<br>
+Serialization in Java is a mechanism of writing the state of an object into a byte-stream. For serializing the object, we call the writeObject() method of ObjectOutputStream class.<br>
 <br>
+What is deserialization?<br>
+The reverse operation of serialization is called deserialization where byte-stream is converted into an object. For deserializing the object, we call the readObject() method of ObjectInputStream class.<br>
 <br>
+What is transient keyword in serialization?<br>
+The transient keyword can be used with the data members of a class in order to avoid their serialization.<br>
+<br>
+What is newInstance() method ?<br>
+The newInstance() method of Class class and Constructor class is used to create a new instance of the class.<br>
+<br>
+what is serial version id?<br>
+SerialVersionUID is a unique identifier for each class, JVM uses it to compare the versions of the class ensuring that the same class was used during Serialization is loaded during Deserialization. Specifying one gives more control, though JVM does generate one if you don't specify.<br>
+<br>
+What is externalization in java ?<br>
+Externalization in Java is used whenever you need to customize the serialization mechanism. If a class implements an Externalizable interface, then serialization of the object will be done using the method writeExternal().<br>
+<br>
+what is reflection in java?<br>
+Reflection in Java is an API(Application Programming Interface) that is used at runtime to analyze or change classes, methods, and interfaces. It is a process of examining or modifying the run time behavior of a class at run time.<br>
+<br>
+what is the difference between serialization and externalization ?<br>
+serialization interface passes the responsibity of serialization to jvm and the programmer has no control over serialization while externalizable interface provides all serialization responsibilities to a programmer and hence jvm has no control over serialization.<br>
+<br>
+what is the difference betweeb serialization and synchronization ?<br>
+serialization is a process of converting the state of an object into bytestream while synchronization is the process of capability to control the access of multiple threads to any shared resource.<br>
+<br>
+what is not serializable exception error?<br>
+a NotSerializableException exception is thrown when an instance of a class does not implemented the Serializable interface. for the serialization class must implemented serializable interface.
 
