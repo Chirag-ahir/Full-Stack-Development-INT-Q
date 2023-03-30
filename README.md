@@ -203,3 +203,5 @@ what is comparable in java ?<br>
  
  what is comparator in java ?<br>
  Comparator is an functional interface used to compare two objects of the same type. It has a single abstract method called compare(). This method takes two parameters of the same type and returns an integer value that represents the result of the comparison.
+
+Explain difference between comparable and comparator ? <a href="https://www.edureka.co/blog/comparable-in-java/#WhatiscomparatorinJava?:~:text=our%20next%20topic.-,Comparable%20v/s%20Comparator%20in%20Java,-Comparable%20in%20Java">click here</a>
