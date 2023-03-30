@@ -199,7 +199,7 @@ what is not serializable exception error?<br>
 a NotSerializableException exception is thrown when an instance of a class does not implemented the Serializable interface. for the serialization class must implemented serializable interface.
 
 what is comparable in java ?<br>
- Comparable is an interface which defines a way to compare an object with other objects of the same type. It has a single abstract method compareTo() that objects need to implement to have a natural ordering.
+ Comparable is an functional interface which defines a way to compare an object with other objects of the same type. It has a single abstract method compareTo() that objects need to implement to have a natural ordering.
  
  what is comparator in java ?<br>
  Comparator is an functional interface used to compare two objects of the same type. It has a single abstract method called compare(). This method takes two parameters of the same type and returns an integer value that represents the result of the comparison.
